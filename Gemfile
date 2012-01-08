@@ -7,6 +7,8 @@ gem 'rails', '3.0.11'
 
 gem 'sqlite3'
 
+gem 'rake'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
